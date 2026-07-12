@@ -34,12 +34,18 @@
 | [0001-two-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
