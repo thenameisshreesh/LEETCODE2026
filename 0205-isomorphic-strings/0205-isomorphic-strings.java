@@ -4,7 +4,7 @@ class Solution {
         if(s.length()!=t.length())
             return false;
 
-        int l=s.length(),c=0;
+        int l=s.length();
         HashMap<Character,Character> hs=new HashMap<>();
         char k,v;
         boolean flg=true;
@@ -22,7 +22,6 @@ class Solution {
                 v=hs.get(s.charAt(i));
                 if(v==t.charAt(i)){
                     
-                    c++;
                     continue;
                    
                 }
