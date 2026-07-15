@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0118-pascals-triangle/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Two Pointers
@@ -21,6 +22,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +54,8 @@
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
