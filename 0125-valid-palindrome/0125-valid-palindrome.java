@@ -25,7 +25,7 @@ class Solution {
 
             
 
-            if(s.charAt(l)==s.charAt(r) && (Character.isLetterOrDigit(s.charAt(r))) && (Character.isLetterOrDigit(s.charAt(l))))
+            if(s.charAt(l)==s.charAt(r))
             {
                 l++;
                 r--;
