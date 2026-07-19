@@ -21,6 +21,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@
 | [0125-valid-palindrome](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -55,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
