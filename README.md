@@ -50,6 +50,7 @@
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -74,6 +76,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
