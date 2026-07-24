@@ -1,33 +1,58 @@
-
 class Solution {
+
     public int totalFruit(int[] fruits) {
+    
+        HashMap<Integer,Integer> mp=new HashMap<>();
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int l=0,r=0,feq=0,c=0;
 
-        int left = 0;
-        int max = 0;
+        for(r=0;r<fruits.length;r++)
+        {
+ 
+            mp.put(fruits[r],mp.getOrDefault(fruits[r], 0)+1);
 
-        for (int right = 0; right < fruits.length; right++) {
+            if(mp.size()>2){
 
-            // Add current fruit
-            map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
-
-            // If more than 2 fruit types, shrink window
-            while (map.size() > 2) {
-
-                map.put(fruits[left], map.get(fruits[left]) - 1);
-
-                if (map.get(fruits[left]) == 0) {
-                    map.remove(fruits[left]);
+                
+                
+                while(mp.size()>2)
+                {
+                    feq=mp.get(fruits[l]);
+                    feq--;
+                    if(feq>0)
+                        mp.put(fruits[l], feq);
+                    else{
+                        mp.remove(fruits[l]);   
+                        
+                    }
+                    l++;
+                    
                 }
 
-                left++;
             }
 
-            // Update answer
-            max = Math.max(max, right - left + 1);
-        }
+            if((r-l)+1>c)
+                c=(r-l)+1;
 
-        return max;
+        }
+        
+        
+        return c;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
