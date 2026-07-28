@@ -61,6 +61,7 @@
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
@@ -86,6 +87,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## String
@@ -99,6 +101,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 <!---LeetCode Topics End-->
