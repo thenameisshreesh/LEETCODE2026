@@ -25,6 +25,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -85,6 +86,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -131,6 +133,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
