@@ -62,6 +62,7 @@
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -103,6 +104,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +145,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 <!---LeetCode Topics End-->
