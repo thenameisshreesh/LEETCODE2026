@@ -7,6 +7,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0283-move-zeroes/) | Easy |
@@ -64,6 +66,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
