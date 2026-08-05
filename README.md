@@ -70,6 +70,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
@@ -140,6 +142,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Bit Manipulation
