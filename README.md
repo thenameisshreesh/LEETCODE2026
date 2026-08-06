@@ -78,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
@@ -123,6 +124,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
@@ -171,6 +173,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0383-ransom-note/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
