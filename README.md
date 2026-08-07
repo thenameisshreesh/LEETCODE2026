@@ -52,6 +52,7 @@
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -76,6 +77,7 @@
 | [0013-roman-to-integer](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Bit Manipulation
@@ -209,4 +212,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
