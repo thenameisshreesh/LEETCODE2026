@@ -16,6 +16,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0118-pascals-triangle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -165,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
