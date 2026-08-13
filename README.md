@@ -29,6 +29,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0881-boats-to-save-people](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0881-boats-to-save-people/) | Medium |
@@ -99,6 +100,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
@@ -157,6 +159,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
