@@ -2,11 +2,15 @@ class Solution {
     public int longestSubsequence(int[] nums) {
         
         int total=0;
+        boolean flg=false;
 
         
         for (int i : nums) {
             
             total^=i;
+            if(i!=0)
+                flg=true;
+
 
         }
 
@@ -17,12 +21,8 @@ class Solution {
         }
         else
         {
-            int cnt=1;
-            for (int i : nums) {
-                if(i!=0){
-                        return nums.length-1;
-                }
-            }
+            if(flg)
+                return nums.length-1;
         }
 
     return 0;
