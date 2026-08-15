@@ -102,6 +102,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0771-jewels-and-stones](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -163,6 +164,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0771-jewels-and-stones](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
