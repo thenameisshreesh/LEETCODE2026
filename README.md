@@ -73,6 +73,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0342-power-of-four/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@
 | [0231-power-of-two](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0342-power-of-four/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Bit Manipulation
@@ -198,6 +200,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0342-power-of-four/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Greedy
