@@ -8,6 +8,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0342-power-of-four/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
