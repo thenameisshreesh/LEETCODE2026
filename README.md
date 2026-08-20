@@ -48,6 +48,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -265,6 +266,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0258-add-digits/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
