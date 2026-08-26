@@ -9,6 +9,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -77,6 +79,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0342-power-of-four/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -283,4 +286,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
