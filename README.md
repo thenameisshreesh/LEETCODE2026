@@ -8,6 +8,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -64,6 +65,7 @@
 | [0125-valid-palindrome](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -98,6 +100,7 @@
 | [0049-group-anagrams](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
