@@ -23,6 +23,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0118-pascals-triangle/) | Easy |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0118-pascals-triangle/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Hash Table
@@ -272,6 +274,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
