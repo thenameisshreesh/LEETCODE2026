@@ -20,7 +20,7 @@ class Solution {
 
             minSum=Math.min(curMin,minSum);
 
-            Math.max(maxSum,(int)Math.abs(minSum));
+            
 
         }
 
