@@ -62,7 +62,7 @@ class Solution {
 
             }
 
-            return (int)(max % 1_000_000_007);
+            return (int)(max % (Math.pow(10,9)+7));
         }
 
 
