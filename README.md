@@ -221,6 +221,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -238,6 +239,7 @@
 | [0326-power-of-three](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0441-arranging-coins/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Bit Manipulation
