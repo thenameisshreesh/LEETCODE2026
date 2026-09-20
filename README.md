@@ -55,6 +55,7 @@
 | [1191-k-concatenation-maximum-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -164,6 +165,7 @@
 | [0881-boats-to-save-people](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0881-boats-to-save-people/) | Medium |
 | [0888-fair-candy-swap](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0888-fair-candy-swap/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 ## Sliding Window
@@ -232,6 +234,7 @@
 | [0888-fair-candy-swap](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +276,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -354,4 +358,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 <!---LeetCode Topics End-->
