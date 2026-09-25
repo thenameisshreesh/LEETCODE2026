@@ -53,6 +53,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1046-last-stone-weight/) | Easy |
 | [1191-k-concatenation-maximum-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -281,6 +282,7 @@
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0506-relative-ranks/) | Easy |
+| [1046-last-stone-weight](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting
