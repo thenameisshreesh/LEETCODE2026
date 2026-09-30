@@ -282,6 +282,7 @@
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0506-relative-ranks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -378,4 +379,24 @@
 | [0584-find-customer-referee](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
