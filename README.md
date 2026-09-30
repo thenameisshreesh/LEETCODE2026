@@ -51,6 +51,7 @@
 | [0888-fair-candy-swap](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1046-last-stone-weight/) | Easy |
@@ -168,6 +169,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0881-boats-to-save-people/) | Medium |
 | [0888-fair-candy-swap](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0888-fair-candy-swap/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -253,6 +255,7 @@
 | [0342-power-of-four](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0441-arranging-coins/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Bit Manipulation
@@ -283,6 +286,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -317,6 +321,7 @@
 | [0053-maximum-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,4 +404,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
