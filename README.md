@@ -45,6 +45,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -145,6 +146,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0888-fair-candy-swap](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0888-fair-candy-swap/) | Easy |
@@ -170,6 +172,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0506-relative-ranks/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0881-boats-to-save-people/) | Medium |
 | [0888-fair-candy-swap](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0888-fair-candy-swap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -215,6 +218,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
@@ -289,6 +293,7 @@
 | [0347-top-k-frequent-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0506-relative-ranks/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1046-last-stone-weight/) | Easy |
@@ -303,6 +308,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -352,6 +358,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,4 +431,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
