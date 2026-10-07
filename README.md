@@ -407,6 +407,7 @@
 | [0595-big-countries](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1075-project-employees-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1729-find-followers-count](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
