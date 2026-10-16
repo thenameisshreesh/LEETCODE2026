@@ -415,6 +415,7 @@
 | [1068-product-sales-analysis-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1251-average-selling-price](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1251-average-selling-price/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1729-find-followers-count](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
