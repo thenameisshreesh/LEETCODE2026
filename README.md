@@ -67,6 +67,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -333,6 +334,7 @@
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -354,6 +356,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0258-add-digits/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -376,6 +379,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
