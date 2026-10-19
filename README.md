@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0027-remove-element/) | Easy |
@@ -165,6 +167,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
