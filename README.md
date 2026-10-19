@@ -81,6 +81,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -115,6 +116,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -212,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0049-group-anagrams/) | Medium |
@@ -463,4 +466,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
