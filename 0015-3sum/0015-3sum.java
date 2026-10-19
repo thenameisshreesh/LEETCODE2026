@@ -1,46 +1,63 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
+        
+
+
         Arrays.sort(nums);
 
-        for (int i = 0; i < nums.length - 2; i++) {
-            // If the smallest number is greater than 0, no triplet can sum to 0
-            if (nums[i] > 0) {
-                break;
-            }
+        List<List<Integer>> res=new ArrayList<>();
 
-            // Skip duplicate values for the first element
-            if (i > 0 && nums[i] == nums[i - 1]) {
+        int j=0,sum=0,k=nums.length-1;
+
+        List<Integer> l=new ArrayList<>();
+
+        for (int i=0;i<nums.length-2;i++) {
+            
+            
+            if(i>0 && nums[i]==nums[i-1])
                 continue;
-            }
 
-            int left = i + 1;
-            int right = nums.length - 1;
+            j=i+1;
+            k = nums.length - 1;
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
+            while (j<k) {
 
-                if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                sum=nums[i]+nums[j]+nums[k];
 
-                    // Skip duplicate values for the second and third elements
-                    while (left < right && nums[left] == nums[left + 1]) {
-                        left++;
-                    }
-                    while (left < right && nums[right] == nums[right - 1]) {
-                        right--;
-                    }
+                if(sum<0)
+                    j++;
+                else if(sum>0)
+                    k--;
+                else
+                {
 
-                    left++;
-                    right--;
-                } else if (sum < 0) {
-                    left++;
-                } else {
-                    right--;
+                    
+                    res.add(Arrays.asList(nums[i],nums[j],nums[k]));
+
+                    j++;
+                    k--;
+
+                    while (j<k && nums[j]==nums[j-1]) 
+                    j++;
+
+                while (j < k && nums[k] == nums[k + 1])
+                    k--;
+
+
                 }
+
+                
+
+                
             }
+
+
+
         }
 
-        return result;
+
+
+        return res;
+
     }
 }
