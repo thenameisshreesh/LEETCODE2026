@@ -76,6 +76,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3026-maximum-good-subarray-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -167,6 +168,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3026-maximum-good-subarray-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -303,6 +305,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3026-maximum-good-subarray-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
