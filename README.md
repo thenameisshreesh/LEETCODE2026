@@ -28,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -90,6 +91,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0141-linked-list-cycle/) | Easy |
@@ -176,6 +178,7 @@
 | [0015-3sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
@@ -476,4 +479,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
