@@ -1,80 +1,51 @@
 class Solution {
    public boolean isValid(String s) {
+    
+        Stack<Character> ans=new Stack<>(); 
         
-        Stack<Character> st=new Stack<>();
+        char check;
 
-        if(s.toCharArray().length<=1)
-            return false;
-
-        char [] carr=s.toCharArray();
-
-        if(carr[0]==']' || carr[0]=='}' || carr[0]==')')
-            return false;
-
-
-        for (char c: s.toCharArray()) {
+        for (char c:s.toCharArray()) {
             
-            
-
-            
-
-            if(c=='{' || c=='[' || c=='(')
-            {
-
-                st.add(c);
-
-
-            }
-
-            if((c==']' || c=='}' || c==')') && st.empty())
-            {
-
-                return false;
-
-
-            }
-            
-          
-            
-            if(c=='}')
-            {
-
-                if(st.peek()=='{')
-                {
-                    st.pop();
-                }else
-                    return false;
-                    
-            }else if(c==']')
-            {
-
-                if(st.peek()=='[')
-                {
-                    st.pop();
-                }else
-                    return false; 
-                
-                
-            }else if(c==')')
-            {
-
-                if(st.peek()=='(')
-                {
-                    st.pop();
-                }else
-                    return false;   
-            }
+            if(c=='(' || c=='{' || c=='[')
+                ans.add(c);
             else
-                continue;
+            {
 
-            
+                if(c == ']' || c=='}' || c==')')
+                {
+
+
+                    if(ans.isEmpty())
+                        return false;;
+
+                    check=ans.peek();
+
+                    if(c == ']' && check == '[')
+                        ans.pop();
+                    else if(c == ')' && check == '(')
+                        ans.pop();
+                    else if(c == '}' && check == '{')
+                        ans.pop();
+                    else
+                        return false;
+
+
+
+
+                }
+
+
+            }
+
 
         }
 
-        if(st.empty())
+        if(ans.isEmpty())
             return true;
         else
             return false;
+        
     }
 
 
