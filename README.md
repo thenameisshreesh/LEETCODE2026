@@ -46,6 +46,7 @@
 | [0347-top-k-frequent-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0496-next-greater-element-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0506-relative-ranks/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -157,6 +158,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -396,6 +398,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -490,4 +493,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0075-sort-colors/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
