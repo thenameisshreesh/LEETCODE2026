@@ -1,29 +1,40 @@
 class Solution {
     public int firstUniqChar(String s) {
-        
+    
+        Queue<Character> q=new LinkedList<>();
+
+
         HashMap<Character,Integer> hs=new HashMap<>();
 
-        for(int i=0;i<s.length();i++)
-        {
-
-            hs.put(s.charAt(i), hs.getOrDefault(s.charAt(i),0)+1);
-
+        for (char c:s.toCharArray()) {
+            
+            hs.put(c,hs.getOrDefault(c, 0)+1);
 
 
         }
-        int feq=0;
 
-        for(int i=0;i<s.length();i++)
-        {
 
-            feq=hs.get(s.charAt(i));
-            if(feq==1)
-                return i;
+        for (char c:s.toCharArray()) {
+            
+            q.add(c);
 
         }
 
-        return -1;
+
+        int idx=0;
+        for (char c:s.toCharArray()) {
+            
+            if(hs.get(c)>1){
+                q.poll();
+                idx++;
+            }
+            else
+                break;
 
 
+        }
+
+        return idx>=s.length()?-1:idx;
+        
     }
 }
