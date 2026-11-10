@@ -113,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -277,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0231-power-of-two/) | Easy |
