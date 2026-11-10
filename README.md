@@ -48,6 +48,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0506-relative-ranks/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -266,6 +267,7 @@
 | [0367-valid-perfect-square](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0441-arranging-coins/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
