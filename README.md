@@ -41,6 +41,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -150,6 +151,7 @@
 | [0205-isomorphic-strings](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0290-word-pattern/) | Easy |
@@ -186,6 +188,7 @@
 | [0075-sort-colors](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -334,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -371,6 +375,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/thenameisshreesh/LEETCODE2026/tree/main/0229-majority-element-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
